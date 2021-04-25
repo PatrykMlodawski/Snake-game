@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+.parcel-cache/
+dist/
+coverage/
+.vscode/
+.env
+# Local Netlify folder
+.netlify
